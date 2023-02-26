@@ -2,7 +2,7 @@
 #include <string>
 
 int main (int argc, char** argv) {
-    string name;
-    std::cin >> name;
-    std::cout << "Hello world from " << name << endl;
+    string name; // Name of @user
+    std::cin >> name; // Input name of @user
+    std::cout << "Hello world from " << name << endl; // Output name of @user
 }
