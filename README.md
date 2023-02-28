@@ -1,4 +1,2 @@
- lab-02      Cancel changes
-
-tujh
-vkrpm
+# Пункт 1
+##
